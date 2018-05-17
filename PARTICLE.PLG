@@ -1,0 +1,30 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: particle - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\¿ƒÃ»Õ»~1.WS-\LOCALS~1\Temp\RSP12C.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /D "_AFXDLL" /FR"Release/" /Fp"Release/particle.pch" /YX /Fo"Release/" /Fd"Release/" /FD /Qopt_report /Qopt_report_phaseipo /Qopt_report_levelmin /c 
+"C:\Program Files\Microsoft Visual Studio\MyProjects\p\MyProjects\P\particle.cpp"
+]
+Creating command line "cl.exe @"C:\DOCUME~1\¿ƒÃ»Õ»~1.WS-\LOCALS~1\Temp\RSP12C.tmp"" 
+Creating command line "link.exe OPENGL32.LIB GLU32.LIB /nologo /subsystem:windows /incremental:no /pdb:"Release/particle.pdb" /machine:I386 /out:"Release/particle.exe"  ".\Release\particle.obj" ".\Release\StdAfx.obj" ".\Release\script1.res" "
+<h3>Output Window</h3>
+Compiling...
+Command line warning D4002 : ignoring unknown option '/Qopt_report'
+Command line warning D4002 : ignoring unknown option '/Qopt_report_phaseipo'
+Command line warning D4002 : ignoring unknown option '/Qopt_report_levelmin'
+particle.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+particle.exe - 0 error(s), 3 warning(s)
+</pre>
+</body>
+</html>
